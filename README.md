@@ -33,11 +33,13 @@ and occasionally creates new ones while coding. 🤓
 - 📊 **Data Analytics** — Turning messy spreadsheets into useful insights.
 - 💡 **More experiments coming soon...**
 
+
 ### 📊 GitHub activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam9798set-byte&show_icons=true&hide_border=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam9798set-byte&layout=compact&theme=tokyonight)
+
 
 ```text
 rahul@github:~$ echo "Thanks for stopping by!"
